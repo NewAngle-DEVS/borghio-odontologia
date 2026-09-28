@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.borghiodontologia.com.br/sitemap.xml
